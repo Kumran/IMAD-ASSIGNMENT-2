@@ -1,3 +1,10 @@
+// Title: HISTORY QUIZ APP
+// Author: Kumran Maistry
+// Date: 24 May 2025
+// Version: 1,0
+// Available: https://www.w3schools.com/kotlin/index.php
+// Additional Reference:
+
 package com.example.imadassignment2
 
 import android.content.Intent
